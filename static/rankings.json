@@ -1,0 +1,36 @@
+{
+  "pickleball": [
+    {
+      "rank": 1,
+      "name": "Emma Smith",
+      "points": 2200
+    },
+    {
+      "rank": 2,
+      "name": "Michael Johnson",
+      "points": 2000
+    },
+    {
+      "rank": 3,
+      "name": "Sophia Lee",
+      "points": 1900
+    }
+  ],
+  "tennis": [
+    {
+      "rank": 1,
+      "name": "Lucas Brown",
+      "points": 2500
+    },
+    {
+      "rank": 2,
+      "name": "Olivia Martin",
+      "points": 2400
+    },
+    {
+      "rank": 3,
+      "name": "Daniel Wilson",
+      "points": 2300
+    }
+  ]
+}

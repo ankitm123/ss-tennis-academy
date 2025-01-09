@@ -1,0 +1,33 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'SS Tennis academy'
+theme = 'ananke'
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Pickleball"
+    url = "/pickleball/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tennis"
+    url = "/tennis/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 4
+  [[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 5
+  [[menu.main]]
+    name = "Rankings"
+    url = "/rankings/"
+    weight = 6
+
